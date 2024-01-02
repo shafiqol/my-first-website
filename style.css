@@ -1,0 +1,12 @@
+body ,html{
+    height: 100%;
+    background-image: url("winter.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.go{
+    border: 5px solid rgb(49, 154, 196);;
+    box-shadow: 20px 20px 50px rgb(91, 136, 153);
+}
